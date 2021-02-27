@@ -1,57 +1,63 @@
 Frontend Interview Questions
 
-### JavaScript and Ecosystem
+## JavaScript and Ecosystem
 
-## General
+### General
+
 - JS as a language
   - Describe js with your words
     - Multiparadigm
   - Interpreted, Compiled or Hybrid language
     - Pros and Cons
   - Dynamically or statically typed
-      - Pros and Cons
+    - Pros and Cons
   - Works as a single threaded / multi threaded.
-      - Pros and Cons
+    - Pros and Cons
   - Programming Paradigms and JS
     - Functional
     - Imperative
 
-## JS
+### JS
+
 - Type Coercion
 - Property Descriptors
 - Functions
   - Lexical Environment
 - ES5 vs ES6+ \*
   - Lambda
-  - Rest, Spread Operators
-- Generators
-  - Function generator
-  - Async generators
-- Iterators
+    - spread and rest vs es5
+  - Rest, Spread Operators, Destructuring Assignment
+  - Generators
+    - Function generator
+    - Async generators
+  - Iterators
+  - Modules
+    - `import`, `export`
 
-## Asynchronity
-  - `setTimeout`, `setInterval`
-  - Promises
-    - Promises/A+
-    - Realization in es5
-    - Async / await
-  - Event Loop
-    - Task Que
-    - Microtask Que
-    - Web API
-  - AJAX (fetch, axios)
-  - Callbacks
+### Asynchronity
 
-## Classes and OOP
-  - `_proto_`, Prototype
-  - Classes
-    - Class declaration
-    - Class expression
-    - Static methods
-    - Getter / setter \* Class inheritance
+- `setTimeout`, `setInterval`
+- Promises
+  - Promises/A+
+  - Realization in es5
+  - Async / await
+- Event Loop
+  - Task Que
+  - Microtask Que
+  - Web API
+- AJAX (fetch, axios)
+- Callbacks
 
+### Classes and OOP
 
-## Tools/libraries/frameworks from ecosystem of JavaScript
+- `_proto_`, Prototype
+- Classes
+  - Class declaration
+  - Class expression
+  - Static methods
+  - Getter / setter \* Class inheritance
+
+### Tools/libraries/frameworks from ecosystem of JavaScript
 
 - Task runners, builders, source-to-source compilers, optimization tools.
 
