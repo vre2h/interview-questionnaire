@@ -17,7 +17,7 @@ Frontend Interview Questions
     - Functional
     - Imperative
 
-### JS
+### Intro
 
 - Type Coercion
 - Property Descriptors
@@ -55,7 +55,10 @@ Frontend Interview Questions
   - Class declaration
   - Class expression
   - Static methods
-  - Getter / setter \* Class inheritance
+  - Getter / setter
+  - Class inheritance
+  - Encapsulation
+  - Polymorphism
 
 ### Tools/libraries/frameworks from ecosystem of JavaScript
 
