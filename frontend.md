@@ -38,7 +38,7 @@ Frontend Interview Questions
 
 - `setTimeout`, `setInterval`
 - Promises
-  - Promises/A+
+  - [Promises/A+](https://promisesaplus.com/)
   - Realization in es5
   - Async / await
 - Event Loop
