@@ -1,4 +1,4 @@
-Frontend Interview Questions
+
 
 ## JavaScript and Ecosystem
 
