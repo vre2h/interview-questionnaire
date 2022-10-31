@@ -10,4 +10,5 @@
 - Tell me a little bit about conflicts you had and what was the hardest part in it.
 - Do you have issues with giving negative feedback?
 
-##
+
+
